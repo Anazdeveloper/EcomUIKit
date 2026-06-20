@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode
+DerivedData/
+build/
+
+# User settings
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
